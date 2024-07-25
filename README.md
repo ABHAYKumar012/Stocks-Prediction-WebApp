@@ -21,7 +21,7 @@ Ensure you have the following installed:
 - fbprophet
 - plotly
 
-You can install the required libraries using pip:
+You can install and run code :
 
 ```bash
 conda create -n stock_forecast python=3.9
